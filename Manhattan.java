@@ -40,10 +40,10 @@ public class Manhattan{
             try {
                 for (int i = 0; i < 2; i++) {
                     if (i == 0) {
-                        System.out.println("Enter first coordinate: ");
+                        System.out.println("Enter first coordinate point: ");
                         fcoor = calc(console);
                     } else {
-                        System.out.println("Enter second coordinate: ");
+                        System.out.println("Enter second coordinate point: ");
                         scoor = calc(console);
                     }
                 }
