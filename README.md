@@ -30,4 +30,4 @@ This program is a user interface that accepts an integer from the user and displ
 2. Enter an integer in the text box and click the 'Run' button below to run the program.
 * The entered integer must be a valid integer which has no trailing decimal point or letters. *For example, '5.0' is not a valid integer, instead simply enter '5'*
 3. The program will output a result that follows the algorithm described in the program description above.
-4. To exit out of the program, simply close the program window.
+4. To exit out of the program, simply close the popup window.
