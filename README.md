@@ -7,7 +7,7 @@ This program accepts two coordinate points and returns the Manhattan Distance be
 2. Next, run the program by executing the following command: *java Manhattan*
 ### Usage
 1. After executing the program, you will be greeted with a short description of the program and a prompt to enter the first coordinate point.
-* The entered coordinates should be enclosed by parentheses. For example, to input the coordinate point x = 5, y = 4: (5,4)
+* The entered coordinate point should be enclosed by parentheses. For example, to input the coordinate point x = 5, y = 4: (5,4)
 * This program also accepts decimals. For example, to input the decimal coordinate point x = 5.5, y = 4.5: (5.5,4.5)
 2. After entering the first coordinate point, you will be prompted to enter the second coordinate point.
 3. Upon pressing enter, the program will print out the calculated Manhattan Distance between the two points.
