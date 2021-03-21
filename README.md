@@ -11,7 +11,7 @@ This program accepts two coordinate points and returns the Manhattan Distance be
 * This program also accepts decimals. For example, to input the decimal coordinate point x = 5.5, y = 4.5: (5.5,4.5)
 2. After entering the first coordinate point, you will be prompted to enter the second coordinate point.
 3. Upon pressing enter, the program will print out the calculated Manhattan Distance between the two points.
-4. To rerun the program with a different pair of coordinate points enter 'y', otherwise enter any other key to exit the program
+4. To rerun the program with a different pair of coordinate points enter 'y', otherwise enter any other key to exit the program.
 
 ---
 
@@ -20,7 +20,7 @@ This program accepts two coordinate points and returns the Manhattan Distance be
 This program is a user interface that accepts an integer from the user and displays a string value based on the following algorithm:
 1. If the number is divisible by 3, display “Mustang”.
 2. If the number is divisible by 5, display “Bronco”.
-3. If the number is divisible by both 3 and 5, display “MustangBronco”
+3. If the number is divisible by both 3 and 5, display “MustangBronco”.
 4. For all other numbers, display the number itself.
 ### Setup
 1. Navigate to the location of the MustangBronco.java file and compile the program using the following command: *javac MustangBronco.java*
