@@ -18,10 +18,10 @@ This program accepts two coordinate points and returns the Manhattan Distance be
 ## Mustang Bronco GUI
 ### Description
 This program is a user interface that accepts an integer from the user and displays a string value based on the following algorithm:
-1. If the number is divisible by 3, display “Mustang”.
-2. If the number is divisible by 5, display “Bronco”.
-3. If the number is divisible by both 3 and 5, display “MustangBronco”.
-4. For all other numbers, display the number itself.
+1. If the number is divisible by 3, displays “Mustang”.
+2. If the number is divisible by 5, displays “Bronco”.
+3. If the number is divisible by both 3 and 5, displays “MustangBronco”.
+4. For all other numbers, displays the number itself.
 ### Setup
 1. Navigate to the location of the MustangBronco.java file and compile the program using the following command: *javac MustangBronco.java*
 2. Next, run the program by executing the following command: *java MustangBronco*
